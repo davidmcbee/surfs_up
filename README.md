@@ -16,14 +16,12 @@ The specific analysis steps conducted were:
 2. Focusing on June, a query was written to view the dates and temperatures for the month of June. These are all the temperatures from 2010 through 2017, 1700 rows.
 3. The June data was put into a list and then into a dataframe.
 4. Using the describe function you can see the results here ![](https://github.com/davidmcbee/surfs_up/blob/master/Resources/june_statistics.png)
-
 Figure 1
 
 
 5. Now, focusing on December, a query was written to view the dates and temperatures for the month of December. These are all the temperatures from 2010 through 2016, the data only goes through 08/23/2017 so no temperatures are available for 2017. This resulted in 1517 rows.
 3. The December data was put into a list and then into a dataframe.
 4. Using the describe function you can see the results here ![](https://github.com/davidmcbee/surfs_up/blob/master/Resources/december_statistics.png)
-
 Figure 2
 
 ## Results
@@ -53,9 +51,7 @@ Having said that sometimes it doe rain rather heavily. This can be seen in the m
 The hot cocoa along with a covered patio would help when these heavy rains do occur
 
 ![](https://github.com/davidmcbee/surfs_up/blob/master/Resources/june_rain.png)
-
 Figure 3
 
 ![](https://github.com/davidmcbee/surfs_up/blob/master/Resources/december_rain.png)
-
 Figure 4
