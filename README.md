@@ -45,9 +45,9 @@ Overall, December is also very temperate but on average, 3.9 degrees colder than
 
 ### Additional Information
 The other factor that could affect sales is rain. To understand this for June and December see figures 3 and 4 below
-Notice that the mean amount of precipitation for June is .136 inches and for December is .2168 inches. This is very light.
-Also, with the standard deviations of .336 and .541 inches for June and December respectively, the most it will normally rain is .47 inches in June and .76 inches in December.
-Having said that sometimes it doe rain rather heavily. This can be seen in the maximum values of 4.43 inches in June and 6.42 inches in December
+Notice that the mean amount of precipitation for June is 0.136 inches and for December is 0.2168 inches. This is very light.
+Also, with the standard deviations of 0.336 and 0.541 inches for June and December respectively, the most it will normally rain is 0.47 inches in June and 0.76 inches in December.
+Having said that sometimes it does rain rather heavily. This can be seen in the maximum values of 4.43 inches in June and 6.42 inches in December
 The hot cocoa along with a covered patio would help when these heavy rains do occur
 
 ![](https://github.com/davidmcbee/surfs_up/blob/master/Resources/june_rain.png)
