@@ -55,3 +55,6 @@ Figure 3
 
 ![](https://github.com/davidmcbee/surfs_up/blob/master/Resources/december_rain.png)
 Figure 4
+
+## Summary
+The temperatures and percipitation for June and December are conducive to conducting business but I would not anticipate December being the best month to sell shakes. Having an additional product such as hot cocoa would help. Additionally, though rainfall is not normally heavy during June and December, heavy rain does occur. Haivng a small covered patio would also be beneficial. 
